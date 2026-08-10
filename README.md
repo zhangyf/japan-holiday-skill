@@ -11,6 +11,12 @@ WorkBuddy skill for querying Japanese public holidays and analyzing consecutive 
 - Visual calendar output with color-coded holiday types
 - Triple-source fallback: Calendarific API → bestcalendar.jp → Japanese Holiday API
 
+## Installation
+
+```bash
+cp -r japan-holiday ~/.workbuddy/skills/
+```
+
 ## Setup
 
 1. Copy `config.example.json` to `config.json`:
