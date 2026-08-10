@@ -1,0 +1,7 @@
+{
+  "calendarific_api_key": "YOUR_CALENDARIFIC_API_KEY",
+  "calendarific_base_url": "https://calendarific.com/api/v2/holidays",
+  "janmir_base_url": "https://api.janmir.me/holiday",
+  "country": "JP",
+  "cache_ttl_hours": 24
+}
